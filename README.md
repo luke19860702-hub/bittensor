@@ -127,3 +127,4 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 
 ERC20(BEP20): 0x7f3344E925d7BD01ECeDB9B79a3840Db43210d10
+TRX(TRON) : TNwsuhYZ9cA3jpxQakmfgmjjLj9YQ6g5AT
